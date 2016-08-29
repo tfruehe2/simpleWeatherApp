@@ -14,6 +14,7 @@
 		4E5DD5531D6D022D00A36750 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E5DD5511D6D022D00A36750 /* LaunchScreen.storyboard */; };
 		4E5DD55E1D6D022D00A36750 /* weatherAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E5DD55D1D6D022D00A36750 /* weatherAppTests.swift */; };
 		4E5DD5691D6D022D00A36750 /* weatherAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E5DD5681D6D022D00A36750 /* weatherAppUITests.swift */; };
+		4E5DD5771D6D02D800A36750 /* background.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4E5DD5761D6D02D800A36750 /* background.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4E5DD5641D6D022D00A36750 /* weatherAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = weatherAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E5DD5681D6D022D00A36750 /* weatherAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherAppUITests.swift; sourceTree = "<group>"; };
 		4E5DD56A1D6D022D00A36750 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4E5DD5761D6D02D800A36750 /* background.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = background.jpeg; path = ../../../background.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				4E5DD5481D6D022D00A36750 /* AppDelegate.swift */,
 				4E5DD54A1D6D022D00A36750 /* ViewController.swift */,
+				4E5DD5761D6D02D800A36750 /* background.jpeg */,
 				4E5DD54C1D6D022D00A36750 /* Main.storyboard */,
 				4E5DD54F1D6D022D00A36750 /* Assets.xcassets */,
 				4E5DD5511D6D022D00A36750 /* LaunchScreen.storyboard */,
@@ -235,6 +238,7 @@
 				4E5DD5531D6D022D00A36750 /* LaunchScreen.storyboard in Resources */,
 				4E5DD5501D6D022D00A36750 /* Assets.xcassets in Resources */,
 				4E5DD54E1D6D022D00A36750 /* Main.storyboard in Resources */,
+				4E5DD5771D6D02D800A36750 /* background.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
